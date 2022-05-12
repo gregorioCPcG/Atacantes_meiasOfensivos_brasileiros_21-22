@@ -7,3 +7,6 @@ Acrescemos 4 que jogam no brasil
 os resultados são expostos e analisados nos arquvios com o nome ACHADOS
 
 Para replicação no R basta acessar arquvio código
+
+
+Se gostou e quiser mais análises futebolísticas - https://sites.google.com/view/gregoriosilva/curtas/estat%C3%ADstica-futeboleira
